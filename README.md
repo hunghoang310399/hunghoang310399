@@ -11,9 +11,9 @@
 
 ### 🛠 Tech Stack
 
-- 💻 &nbsp; Java | Kotlin | C++ | C# 
-- 🛢 &nbsp; SQLite | Room
-- 🔧 &nbsp; Android | Algorithm | Design Pattern | Git | Test
+- 💻 &nbsp; Java | C# | Javascript 
+- 🛢 &nbsp; SQL Server | My SQL 
+- 🔧 &nbsp; Algorithm | Design Pattern | Git | Test
 - 🖥 &nbsp; Linux | Window
 <!-- 
 [![Thangitus's GitHub stats](https://github-readme-stats.vercel.app/api?username=thangitus)](https://github.com/thangitus)
